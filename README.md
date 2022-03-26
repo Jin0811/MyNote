@@ -24,3 +24,7 @@
 - `VuePreviewPDF`
 
   Vue 项目当中使用 PDF.js 来预览 PDF 文件
+
+- `resources`
+
+  资源文件
