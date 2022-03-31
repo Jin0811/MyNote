@@ -1,6 +1,10 @@
 # 笔记整理
 
 目录
+- `ElementMessage`
+
+  ElementUI的消息组件二次封装
+
 - `GlobalScssVariables`
 
   Vue 项目当中，配置全局 scss 变量
