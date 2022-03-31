@@ -1,7 +1,7 @@
 # 笔记整理
 
 目录
-- `globalScssVariables`
+- `GlobalScssVariables`
 
   Vue 项目当中，配置全局 scss 变量
 
@@ -13,7 +13,7 @@
 
   Node 当中使用 formidable 实现文件上传功能
 
-- `recursionMenu`
+- `RecursionMenu`
 
   递归无限层级的菜单组件，使用了 elementUI 的 Menu 组件
 
@@ -25,6 +25,6 @@
 
   Vue 项目当中使用 PDF.js 来预览 PDF 文件
 
-- `resources`
+- `Resources`
 
   资源文件
