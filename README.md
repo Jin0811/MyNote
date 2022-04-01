@@ -1,6 +1,8 @@
 # 笔记整理
 
 
+[CustomDirectives]：Vue自定义全局指令、按钮权限控制
+
 [ElementMessage]：ElementUI的消息组件二次封装
 
 [GlobalScssVariables]：Vue 项目当中，配置全局 scss 变量
@@ -21,7 +23,7 @@
 
 
 
-
+[CustomDirectives]: https://github.com/Jin0811/Note/tree/master/CustomDirectives
 [ElementMessage]: https://github.com/Jin0811/Note/tree/master/ElementMessage
 [GlobalScssVariables]: https://github.com/Jin0811/Note/tree/master/GlobalScssVariables
 [MySQL]: https://github.com/Jin0811/Note/tree/master/MySQL
