@@ -1,6 +1,6 @@
 <template>
   <div class="menu-container">
-    <el-menu background-color="#545c64" text-color="#fff" active-text-color="#ffd04b">
+    <el-menu router :default-active="defaultActive" background-color="#545c64" text-color="#fff" active-text-color="#ffd04b">
       <template v-for="(item, index) in routerData">
         <template v-if="item.children && item.children.length>0">
           <SubMenu :menuItem="item" :key="index"></SubMenu>
@@ -25,6 +25,12 @@ export default {
   name: "Menu",
   components: {
     SubMenu
+  },
+  // 利用计算属性，实现刷新页面之后，保持当前激活的菜单项
+  computed: {
+    defaultActive() {
+      return this.$route.path;
+    },
   },
   data(){
     return {
