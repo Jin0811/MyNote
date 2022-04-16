@@ -5,6 +5,8 @@
 
 [ElementMessage]：ElementUI的消息组件二次封装
 
+[FileUpload]：JS单文件上传、多文件上传、拖拽上传、上传进度显示、大文件分片上传
+
 [GlobalScssVariables]：Vue 项目当中，配置全局 scss 变量
 
 [MySQL]：MySQL学习笔记、sql语句
@@ -25,6 +27,7 @@
 
 [CustomDirectives]: https://github.com/Jin0811/Note/tree/master/CustomDirectives
 [ElementMessage]: https://github.com/Jin0811/Note/tree/master/ElementMessage
+[FileUpload]: https://github.com/Jin0811/Note/tree/master/FileUpload
 [GlobalScssVariables]: https://github.com/Jin0811/Note/tree/master/GlobalScssVariables
 [MySQL]: https://github.com/Jin0811/Note/tree/master/MySQL
 [Node]: https://github.com/Jin0811/Note/tree/master/Node
