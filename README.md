@@ -23,7 +23,7 @@
 
 [VuePreviewPDF]：Vue 项目当中使用 PDF.js 来预览 PDF 文件
 
-[Resources]：资源文件
+[Resources]：资源文件（React初始项目、ElementUI离线文档、文件类型对照mine.json）
 
 
 
