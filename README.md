@@ -11,6 +11,8 @@
 
 [MySQL]：MySQL学习笔记、sql语句
 
+[Nginx]：Nginx学习笔记
+
 [Node]：Node连接MySQL、Redis、生成图片验证码、生成二维码
 
 [NodeUploadFile]：Node 当中使用 formidable 实现文件上传功能
@@ -30,6 +32,7 @@
 [FileUpload]: https://github.com/Jin0811/Note/tree/master/FileUpload
 [GlobalScssVariables]: https://github.com/Jin0811/Note/tree/master/GlobalScssVariables
 [MySQL]: https://github.com/Jin0811/Note/tree/master/MySQL
+[Nginx]: https://github.com/Jin0811/Note/tree/master/Nginx
 [Node]: https://github.com/Jin0811/Note/tree/master/Node
 [NodeUploadFile]: https://github.com/Jin0811/Note/tree/master/NodeUploadFile
 [RecursionMenu]: https://github.com/Jin0811/Note/tree/master/RecursionMenu
