@@ -17,6 +17,8 @@
 
 [NodeUploadFile]：Node 当中使用 formidable 实现文件上传功能
 
+[ReactAlias]：React 项目当中配置 alias
+
 [RecursionMenu]：递归无限层级的菜单组件，使用了 elementUI 的 Menu 组件
 
 [TableDrag]：表格行拖拽排序，使用了 sortablejs 库
@@ -35,6 +37,7 @@
 [Nginx]: https://github.com/Jin0811/Note/tree/master/Nginx
 [Node]: https://github.com/Jin0811/Note/tree/master/Node
 [NodeUploadFile]: https://github.com/Jin0811/Note/tree/master/NodeUploadFile
+[ReactAlias]: https://github.com/Jin0811/Note/tree/master/ReactAlias
 [RecursionMenu]: https://github.com/Jin0811/Note/tree/master/RecursionMenu
 [TableDrag]: https://github.com/Jin0811/Note/tree/master/TableDrag
 [VuePreviewPDF]: https://github.com/Jin0811/Note/tree/master/VuePreviewPDF
